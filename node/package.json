@@ -1,0 +1,24 @@
+{
+  "name": "drebinbot",
+  "version": "1.0.0",
+  "description": "Bot that tweets Drebin quotes.",
+  "main": "drebinbot.js",
+  "scripts": {
+    "start": "node drebinbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frank",
+    "drebin",
+    "police",
+    "squad",
+    "naked",
+    "gun",
+    "quotes"
+  ],
+  "author": "rich vaughan",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
