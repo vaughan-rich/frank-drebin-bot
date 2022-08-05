@@ -14,3 +14,4 @@ A Twitter bot that tweets random Leslie Nielsen quotes, daily, from the Naked Gu
 * Amend code to re-enable personalised DMs to new followers (although I may need a Twitter enterprise account now...?)
 * Search Twitter for users writing the first part of a Drebin dialogue/joke, and @ them with the punchline.
 * Add some functionality for tweeting amusing Drebin gifs/videos/photos.
+* Code needs a tidy up :)
